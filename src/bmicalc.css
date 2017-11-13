@@ -1,0 +1,27 @@
+body{
+	text-align: center;
+}
+
+#container{
+	width: 40%;
+	margin: 0 auto;
+	background-color: rgba(135,135,135,0.5);
+	height: 400px;
+}
+input{
+	width: 15%;
+
+}
+#head1{
+	display: inline-block;
+	margin-bottom: 2%;
+	font-size: 20px;
+}
+#inputs{
+	margin-top: 5%;
+}
+#type{
+	font-weight: 800;
+	font-color: "green";
+	font-size: 20px;
+}
